@@ -1,5 +1,5 @@
 *** Settings ***
-Documentation       This file contains test cases for the login functionality.
+Documentation       This code is a Robot Framework test suite for automating the login and purchasing process on the website 'https://www.saucedemo.com/'. It includes the following test cases
 
 Library             SeleniumLibrary
 
